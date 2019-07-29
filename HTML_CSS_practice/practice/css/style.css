@@ -1,0 +1,27 @@
+/*CSS resets*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: teal;
+}
+
+/* '.' selects a class, '#' selects id
+classes can be duplicated whereas id's are
+specific and can not be used more than once*/
+
+
+.header{
+	color: pink;
+}
+
+.headerSecond{
+	color: blue;
+}
+
+#secPara{
+	color: green;
+}
